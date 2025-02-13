@@ -24,6 +24,7 @@ public class Dashboard{
 	public void customerclick() {
 		// TODO Auto-generated method stub
 		customer.click();
+		System.out.println("hello");
 	}
 	public void editclick() {
 		edit.click();
